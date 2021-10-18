@@ -52,9 +52,6 @@ export const DisplayRoom = (): JSX.Element => {
         z = Math.sin(radianInterval) * radius 
       }
 
-      // eslint-disable-next-line no-console
-      console.log(items.length, maxItemOnLine, items.length / 5, maxItemOnLine / items.length)
-
       return (
         <Frame
           height={itemHeight}
