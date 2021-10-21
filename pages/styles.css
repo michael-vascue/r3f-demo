@@ -1,3 +1,7 @@
+:root {
+  --poster-color: '#00000000'
+}
+
 html, body {
   font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
     'Arial', sans-serif;
